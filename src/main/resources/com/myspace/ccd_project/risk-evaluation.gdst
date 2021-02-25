@@ -40,7 +40,7 @@
             <isOtherwise>false</isOtherwise>
           </typedDefaultValue>
           <hideColumn>false</hideColumn>
-          <width>191</width>
+          <width>222</width>
           <header>Status</header>
           <constraintValueType>1</constraintValueType>
           <factField>status</factField>
@@ -68,7 +68,7 @@
             <isOtherwise>false</isOtherwise>
           </typedDefaultValue>
           <hideColumn>false</hideColumn>
-          <width>138</width>
+          <width>205</width>
           <header>Minimum Amount</header>
           <constraintValueType>1</constraintValueType>
           <factField>totalFraudAmount</factField>
@@ -84,7 +84,7 @@
             <isOtherwise>false</isOtherwise>
           </typedDefaultValue>
           <hideColumn>false</hideColumn>
-          <width>130</width>
+          <width>245</width>
           <header>Maximum Amount</header>
           <constraintValueType>1</constraintValueType>
           <factField>totalFraudAmount</factField>
